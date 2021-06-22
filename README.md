@@ -1,4 +1,4 @@
-# coco-box-extraction
+# coco-box-extraction (and augmentation)
 
 ## Goal
 We are working to extract annotations made available in JSON files and plot them on the COCO 2014 dataset images. We will also demonstrate different types of augmentations we can apply on these images.
